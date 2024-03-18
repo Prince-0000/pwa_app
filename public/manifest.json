@@ -12,9 +12,9 @@
     "icons": [
         {
             "src": "/icon-144x144.png",
-            "sizes": "192x192",
+            "sizes": "144X144",
             "type": "image/png",
-            "purpose":"maskable"
+            "purpose":"any"
         },
         {
             "src": "/icon-192x192.png",
