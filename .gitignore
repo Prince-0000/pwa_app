@@ -7,6 +7,10 @@
 **/public/sw.js.map
 **/public/workbox-*.js.map
 **/public/worker-*.js.map
+
+**/public/swe-*.js*
+**/public/swe-worker-development.js
+
 /node_modules
 /.pnp
 .pnp.js
